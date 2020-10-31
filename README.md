@@ -21,3 +21,4 @@ password: 12345
 6.Start xampp before executing the code.
 7.A database called "multi-login" is created which contains 2 tables namely users and textarea.
 8.mysql file is attached to access the DB.
+9.Password is encrypted using md5. 
